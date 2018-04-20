@@ -1,0 +1,129 @@
+,Hospital_ID,Perc_Readmitted_30d,Perc_PrimaryCare_14d,Perc_Emergency_30d,Hospital_Name
+0,10055,10.4,18.9,10.9,Flowers Hospital
+1,10139,11.5,15.2,12.6,Brookwood Medical Center
+2,30013,12.5,22.8,13.9,Yuma Regional Medical Center
+3,30069,9.0,16.6,12.8,Havasu Regional Medical Center
+4,30115,10.2,25.5,13.1,Banner Estrella Medical Center
+5,40027,12.0,22.1,12.9,Baxter Regional Medical Center
+6,50007,9.0,13.0,12.9,Mills-Peninsula Health Services
+7,50056,14.2,29.9,14.1,Antelope Valley Hospital
+8,50107,10.7,21.4,17.7,Marian Medical Center
+9,50146,13.0,7.9,9.8,City of Hope National Med Ctr
+10,50224,9.8,17.6,13.5,Hoag Memorial Hosp Presbyterian
+11,50280,9.8,21.2,15.7,Mercy Medical Center Redding
+12,50336,10.1,27.3,12.5,Lodi Memorial Hospital
+13,50441,10.6,21.7,14.2,Stanford Hospital and Clinics
+14,50506,10.8,18.6,14.4,Sierra Vista Regional Med Ctr
+15,50624,17.6,20.7,19.9,Henry Mayo Newhall Memorial Hosp
+16,50757,13.6,21.9,13.3,Alvarado Hospital
+17,60024,14.2,26.0,18.8,University of Colorado Hospital
+18,70005,12.2,17.9,18.5,Waterbury Hospital
+19,70028,15.0,18.2,16.9,St. Vincent's Medical Center
+20,90011,14.5,18.8,16.9,Washington Hospital Center
+21,100026,14.8,34.1,18.1,Bay Medical Center
+22,100050,21.1,26.0,23.0,Palm Springs General Hospital
+23,100075,13.7,21.3,13.2,St. Joseph's Hospital
+24,100118,9.5,20.2,14.9,Florida Hospital Flagler
+25,100176,15.3,29.0,16.3,Palm Beach Gardens Med Ctr
+26,100213,11.1,28.5,13.0,Blake Medical Center
+27,100246,15.4,23.9,16.7,Lawnwood Regional Medical Center
+28,100271,16.8,14.6,16.0,H. Lee Moffitt Cancer Center
+29,110002,9.9,18.1,12.6,Upson Regional Medical Center
+30,110031,13.3,20.2,14.4,Spalding Regional Medical Center
+31,110082,12.5,13.8,17.0,St. Joseph's Hospital of Atlanta
+32,110177,10.5,12.3,9.5,Doctors Hospital
+33,130006,10.1,13.3,15.3,St. Luke's Regional Med Ctr
+34,140032,11.8,18.4,12.8,St. Anthony's Memorial Hospital
+35,140065,12.3,34.3,15.8,Adventist La Grange Mem Hosp
+36,140122,11.9,25.9,16.4,Adventist Hinsdale Hospital
+37,140176,13.6,25.1,16.1,Centegra Memorial Medical Center
+38,140213,14.5,26.9,15.7,Silver Cross Hospital
+39,140275,10.8,24.3,17.5,Genesis Med Ctr Illini Campus
+40,150008,12.6,30.0,11.1,St. Catherine Hospital
+41,150037,6.5,21.1,15.1,Hancock Regional Hospital
+42,150090,12.6,23.7,14.7,St. Margaret Mercy Hlthcare Ctrs
+43,150162,15.1,14.8,19.7,St Francis Hosp & Hlth Centers
+44,160064,8.3,26.1,13.2,Mercy Medical Ctr-North Iowa
+45,170013,12.3,33.5,15.3,Hays Medical Center
+46,170175,11.9,20.5,14.7,Western Plains Medical Complex
+47,180027,11.5,23.3,14.8,Murray-Calloway County Hospital
+48,180104,14.9,19.1,16.3,Western Baptist Hospital
+49,190026,12.8,13.7,14.9,Rapides Regional Medical Center
+50,190111,11.6,16.5,12.1,Willis-Knighton Medical Center
+51,200021,10.2,0.0,14.5,Mid Coast Hospital
+52,210012,0.0,22.7,16.4,Sinai Hospital of Baltimore
+53,210034,0.0,19.3,18.8,Harbor Hospital Center
+54,220008,13.0,14.8,19.8,Sturdy Memorial Hospital
+55,220066,13.1,20.7,16.9,Mercy Medical Center
+56,220105,12.9,14.3,15.9,Winchester Hospital
+57,230019,17.8,24.3,18.3,Providence Hosp & Med Ctr
+58,230066,8.8,17.2,15.9,Hackley Hospital
+59,230130,14.4,21.0,18.0,Beaumont Hospital - Royal Oak
+60,230217,10.2,20.4,12.2,Oaklawn Hospital
+61,240030,7.9,23.9,11.8,Douglas County Hospital
+62,240100,9.5,25.3,10.5,North Country Regional Hospital
+63,250048,12.8,19.2,15.4,St. Dominic-Jackson Mem Hosp
+64,260001,13.9,18.8,17.3,St. John's Regional Med Ctr
+65,260064,9.4,18.9,13.5,Audrain Medical Center
+66,260137,13.2,18.9,16.5,Freeman Health System
+67,270004,11.9,21.3,15.4,Billings Clinic
+68,280040,14.1,29.8,16.0,Nebraska Methodist Hospital
+69,290021,16.5,27.0,18.5,Valley Hospital Medical Center
+70,300019,12.7,0.0,17.5,Cheshire Medical Center
+71,310014,14.9,25.0,17.0,Cooper Health System
+72,310038,16.9,16.4,19.0,RWJ University Hospital
+73,310064,15.5,23.1,18.7,Atlanticare Regional Med Ctr
+74,310112,18.6,27.4,17.8,Bayshore Community Hospital
+75,320085,15.1,25.6,16.6,MountainView Regional Med Ctr
+76,330047,8.3,0.0,9.1,St. Mary's Hospital
+77,330104,22.0,19.1,14.8,Nyack Hospital
+78,330160,16.6,17.8,15.2,Staten Island University Hosp
+79,330198,18.9,23.2,15.1,South Nassau Communities Hosp
+80,330241,16.1,22.2,19.2,Upstate Medical University
+81,330306,20.6,22.4,20.9,Lutheran Medical Center
+82,340003,7.5,0.0,10.6,Northern Hosp of Surry County
+83,340038,6.6,11.4,10.1,Beaufort County Hospital
+84,340091,10.7,15.0,12.5,Moses Cone Health System
+85,340142,10.3,21.0,14.2,Carteret General Hospital
+86,350019,11.4,26.9,12.6,Altru Health System
+87,360025,13.7,23.2,17.1,Firelands Regional Health System
+88,360064,16.3,35.1,18.1,St. Elizabeth Health Center
+89,360086,13.4,34.3,15.7,Springfield Reg Med Ctr- Fountain Campus
+90,360137,15.7,25.8,17.2,University Hospitals Case Medical Ctr
+91,360185,9.2,0.0,12.0,Salem Community Hospital
+92,370013,13.3,13.7,14.5,Mercy Health Center
+93,370078,17.5,34.8,18.7,Oklahoma State Univ Med Center
+94,380014,11.2,23.1,14.9,Good Samaritan Regional Med Ctr
+95,390001,11.1,19.9,13.7,Community Medical Center
+96,390041,9.5,15.6,10.5,Uniontown Hospital
+97,390076,14.1,28.4,15.7,Brandywine Hospital
+98,390111,16.5,24.9,18.1,Hospital of the Univ of PA
+99,390162,14.8,26.6,14.6,Easton Hospital
+100,390222,11.0,15.9,14.0,Riddle Memorial Hospital
+101,390290,20.6,14.9,18.5,Hahnemann University Hospital
+102,420023,8.6,19.3,11.4,Bon Secours-St. Francis Health System
+103,420078,12.4,17.5,13.7,Greenville Memorial Hospital
+104,430016,11.6,23.7,12.2,Avera McKennan Hospital
+105,440035,13.0,23.0,12.8,Gateway Medical Center
+106,440133,10.7,15.2,12.5,Baptist Hospital
+107,450010,11.3,25.6,15.1,United Regional Health Care Sys
+108,450046,12.8,21.3,14.5,Christus Spohn Hosp Corpus Christi Mem.
+109,450104,10.6,19.5,12.7,Guadalupe Regional Med Ctr
+110,450200,11.4,14.3,16.8,Wadley Regional Medical Center
+111,450346,13.6,17.3,18.4,MH Baptist Beaumont Hosp
+112,450537,7.9,18.0,9.1,Richardson Regional Med Ctr
+113,450647,14.1,15.8,15.7,Medical City Dallas Hospital
+114,450688,13.5,31.1,13.2,Dallas Regional Medical Center
+115,450824,13.1,19.1,18.8,Heart Hospital of Austin
+116,460006,9.0,11.4,14.0,LDS Hospital
+117,490005,13.8,19.3,18.4,Winchester Medical Center
+118,490042,10.1,16.7,17.1,Carilion New River Vly Med Ctr
+119,490075,11.2,13.7,14.4,Danville Regional Medical Center
+120,500003,12.7,23.6,13.6,Skagit Valley Hospital
+121,500030,8.1,17.6,13.3,St. Joseph Hospital
+122,500108,13.3,18.0,17.2,St. Joseph Medical Center
+123,510024,9.9,20.5,15.9,Monongalia General Hospital
+124,520013,15.6,22.8,16.6,Sacred Heart Hospital
+125,520066,9.7,23.4,9.5,Mercy Health System
+126,520103,12.1,17.2,13.6,Community Memorial Hospital
+127,670024,12.8,18.9,17.6,North Cypress Medical Center

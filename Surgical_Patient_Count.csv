@@ -1,0 +1,122 @@
+,Hospital_ID,Hospital_Name,Academic_Medical_Center,City,State,Patients
+0,10055,Flowers Hospital,NO,Dothan,AL,1241
+1,10139,Brookwood Medical Center,NO,Birmingham,AL,1608
+2,30013,Yuma Regional Medical Center,NO,Yuma,AZ,1251
+3,30069,Havasu Regional Medical Center,NO,Lake Havasu City,AZ,838
+4,30115,Banner Estrella Medical Center,NO,Phoenix,AZ,244
+6,50007,Mills-Peninsula Health Services,NO,Burlingame,CA,804
+7,50056,Antelope Valley Hospital,NO,Lancaster,CA,517
+8,50107,Marian Medical Center,NO,Santa Maria,CA,618
+9,50146,City of Hope National Med Ctr,NO,Duarte,CA,592
+11,50280,Mercy Medical Center Redding,NO,Redding,CA,1471
+13,50441,Stanford Hospital and Clinics,YES,Stanford,CA,2057
+14,50506,Sierra Vista Regional Med Ctr,NO,San Luis Obispo,CA,447
+15,50624,Henry Mayo Newhall Memorial Hosp,NO,Valencia,CA,307
+16,50757,Alvarado Hospital,NO,San Diego,CA,714
+17,60024,University of Colorado Hospital,YES,Aurora,CO,846
+18,70005,Waterbury Hospital,NO,Waterbury,CT,995
+19,70028,St. Vincent's Medical Center,NO,Bridgeport,CT,1102
+20,90011,Washington Hospital Center,NO,Washington,DC,2622
+21,100026,Bay Medical Center,NO,Panama City,FL,1211
+22,100050,Palm Springs General Hospital,NO,Hialeah,FL,249
+23,100075,St. Joseph's Hospital,NO,Tampa,FL,1549
+24,100118,Florida Hospital Flagler,NO,Palm Coast,FL,498
+25,100176,Palm Beach Gardens Med Ctr,NO,Palm Beach Gardens,FL,1426
+26,100213,Blake Medical Center,NO,Bradenton,FL,1618
+27,100246,Lawnwood Regional Medical Center,NO,Fort Pierce,FL,753
+28,100271,H. Lee Moffitt Cancer Center,NO,Tampa,FL,881
+29,110002,Upson Regional Medical Center,NO,Thomaston,GA,217
+30,110031,Spalding Regional Medical Center,NO,Griffin,GA,347
+31,110082,St. Joseph's Hospital of Atlanta,NO,Atlanta,GA,2305
+32,110177,Doctors Hospital,NO,Augusta,GA,589
+33,130006,St. Luke's Regional Med Ctr,NO,Boise,ID,1622
+34,140032,St. Anthony's Memorial Hospital,NO,Effingham,IL,712
+35,140065,Adventist La Grange Mem Hosp,NO,La Grange,IL,803
+36,140122,Adventist Hinsdale Hospital,NO,Hinsdale,IL,983
+37,140176,Centegra Memorial Medical Center,NO,Woodstock,IL,361
+38,140213,Silver Cross Hospital,NO,Joliet,IL,640
+39,140275,Genesis Med Ctr Illini Campus,NO,Silvis,IL,318
+40,150008,St. Catherine Hospital,NO,East Chicago,IN,289
+41,150037,Hancock Regional Hospital,NO,Greenfield,IN,268
+42,150090,St. Margaret Mercy Hlthcare Ctrs,NO,Dyer,IN,436
+43,150162,St Francis Hosp & Hlth Centers,NO,Indianapolis,IN,831
+44,160064,Mercy Medical Ctr-North Iowa,NO,Mason City,IA,1332
+45,170013,Hays Medical Center,NO,Hays,KS,835
+46,170175,Western Plains Medical Complex,NO,Dodge City,KS,210
+47,180027,Murray-Calloway County Hospital,NO,Murray,KY,276
+48,180104,Western Baptist Hospital,NO,Paducah,KY,1007
+49,190026,Rapides Regional Medical Center,NO,Alexandria,LA,1132
+50,190111,Willis-Knighton Medical Center,NO,Shreveport,LA,2344
+51,200021,Mid Coast Hospital,NO,Brunswick,ME,198
+52,210012,Sinai Hospital of Baltimore,NO,Baltimore,MD,1477
+53,210034,Harbor Hospital Center,NO,Baltimore,MD,450
+54,220008,Sturdy Memorial Hospital,NO,Attleboro,MA,362
+55,220066,Mercy Medical Center,NO,Springfield,MA,486
+56,220105,Winchester Hospital,NO,Winchester,MA,526
+57,230019,Providence Hosp & Med Ctr,NO,Southfield,MI,1690
+58,230066,Hackley Hospital,NO,Muskegon,MI,418
+59,230130,Beaumont Hospital - Royal Oak,NO,Royal Oak,MI,4368
+61,240030,Douglas County Hospital,NO,Alexandria,MN,402
+62,240100,North Country Regional Hospital,NO,Bemidji,MN,299
+63,250048,St. Dominic-Jackson Mem Hosp,NO,Jackson,MS,1517
+64,260001,St. John's Regional Med Ctr,NO,Joplin,MO,1279
+65,260064,Audrain Medical Center,NO,Mexico,MO,288
+66,260137,Freeman Health System,NO,Joplin,MO,1576
+67,270004,Billings Clinic,NO,Billings,MT,1301
+68,280040,Nebraska Methodist Hospital,NO,Omaha,NE,1643
+69,290021,Valley Hospital Medical Center,NO,Las Vegas,NV,543
+71,310014,Cooper Health System,NO,Camden,NJ,1210
+72,310038,RWJ University Hospital,YES,New Brunswick,NJ,2196
+73,310064,Atlanticare Regional Med Ctr,NO,Atlantic City,NJ,1716
+74,310112,Bayshore Community Hospital,NO,Holmdel,NJ,336
+75,320085,MountainView Regional Med Ctr,NO,Las Cruces,NM,789
+76,330047,St. Mary's Hospital,NO,Amsterdam,NY,236
+77,330104,Nyack Hospital,NO,Nyack,NY,590
+78,330160,Staten Island University Hosp,NO,Staten Island,NY,949
+79,330198,South Nassau Communities Hosp,NO,Oceanside,NY,1067
+80,330241,Upstate Medical University,YES,Syracuse,NY,712
+81,330306,Lutheran Medical Center,NO,Brooklyn,NY,599
+82,340003,Northern Hosp of Surry County,NO,Mount Airy,NC,228
+83,340038,Beaufort County Hospital,NO,Washington,NC,224
+84,340091,Moses Cone Health System,NO,Greensboro,NC,2616
+85,340142,Carteret General Hospital,NO,Morehead City,NC,493
+86,350019,Altru Health System,NO,Grand Forks,ND,1253
+87,360025,Firelands Regional Health System,NO,Sandusky,OH,767
+88,360064,St. Elizabeth Health Center,NO,Youngstown,OH,1003
+89,360086,Springfield Reg Med Ctr- Fountain Campus,NO,Springfield,OH,850
+90,360137,University Hospitals Case Medical Ctr,YES,Cleveland,OH,1766
+91,360185,Salem Community Hospital,NO,Salem,OH,250
+92,370013,Mercy Health Center,NO,Oklahoma City,OK,1037
+93,370078,Oklahoma State Univ Med Center,NO,Tulsa,OK,257
+94,380014,Good Samaritan Regional Med Ctr,NO,Corvallis,OR,608
+95,390001,Community Medical Center,NO,Scranton,PA,891
+96,390041,Uniontown Hospital,NO,Uniontown,PA,292
+97,390076,Brandywine Hospital,NO,Coatesville,PA,295
+98,390111,Hospital of the Univ of PA,YES,Philadelphia,PA,1583
+99,390162,Easton Hospital,NO,Easton,PA,790
+101,390290,Hahnemann University Hospital,YES,Philadelphia,PA,427
+102,420023,Bon Secours-St. Francis Health System,NO,Greenville,SC,2102
+104,430016,Avera McKennan Hospital,NO,Sioux Falls,SD,1466
+105,440035,Gateway Medical Center,NO,Clarksville,TN,639
+106,440133,Baptist Hospital,NO,Nashville,TN,1295
+107,450010,United Regional Health Care Sys,NO,Wichita Falls,TX,1214
+108,450046,Christus Spohn Hosp Corpus Christi Mem.,NO,Corpus Christi,TX,1741
+109,450104,Guadalupe Regional Med Ctr,NO,Seguin,TX,370
+110,450200,Wadley Regional Medical Center,NO,Texarkana,TX,470
+111,450346,MH Baptist Beaumont Hosp,NO,Beaumont,TX,869
+112,450537,Richardson Regional Med Ctr,NO,Richardson,TX,333
+113,450647,Medical City Dallas Hospital,NO,Dallas,TX,1247
+114,450688,Dallas Regional Medical Center,NO,Mesquite,TX,332
+115,450824,Heart Hospital of Austin,NO,Austin,TX,715
+116,460006,LDS Hospital,NO,Salt Lake City,UT,566
+117,490005,Winchester Medical Center,NO,Winchester,VA,1881
+118,490042,Carilion New River Vly Med Ctr,NO,Christiansburg,VA,391
+119,490075,Danville Regional Medical Center,NO,Danville,VA,471
+120,500003,Skagit Valley Hospital,NO,Mount Vernon,WA,574
+121,500030,St. Joseph Hospital,NO,Bellingham,WA,1209
+122,500108,St. Joseph Medical Center,NO,Tacoma,WA,1231
+123,510024,Monongalia General Hospital,NO,Morgantown,WV,829
+124,520013,Sacred Heart Hospital,NO,Eau Claire,WI,681
+125,520066,Mercy Health System,NO,Janesville,WI,583
+126,520103,Community Memorial Hospital,NO,Menomonee Falls,WI,854
+127,670024,North Cypress Medical Center,NO,Cypress,TX,527
